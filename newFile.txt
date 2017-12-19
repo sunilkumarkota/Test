@@ -1,0 +1,2 @@
+This is the file i created for testing the whether git pull is working correctly or not.
+Njoy Kota.
