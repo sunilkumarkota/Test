@@ -1,1 +1,2 @@
 i am new to this workspace
+added to check git rever with sha of the commit
